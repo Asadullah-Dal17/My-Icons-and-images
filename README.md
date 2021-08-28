@@ -1,5 +1,6 @@
-![Uploading icons8-facebook-500.p![icons8-github-500](https://user-images.githubusercontent.com/66181793/131223904-e4328110-e4ca-495e-b0a2-3d15c9b63118.png)
-![icons8-instagram-500](https://user-images.githubusercontent.com/66181793/131223906-895fd208-8e13-43dc-9631-8df815095d18.png)
-ng…]()
+![icons8-github-500](https://user-images.githubusercontent.com/66181793/131223930-9fd2bfc7-9c43-465d-a057-55f3292f3b2b.png)
+![icons8-instagram-500](https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png)
+![icons8-facebook-500](https://user-images.githubusercontent.com/66181793/131223933-52e845b7-b3fd-4745-b546-1d8fa32fb701.png)
+
 
 # My-Icons-and-images
