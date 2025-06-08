@@ -1,7 +1,7 @@
 1. Profile Image
 ![profile_image](https://github.com/user-attachments/assets/8453baeb-7e1c-4288-b2a5-61b530dfcef6)
 Cards image
-![2](https://github.com/user-attachments/assets/e8f4a93c-ac2a-4e5a-8a16-80c6d6e175df)
-![3](https://github.com/user-attachments/assets/7c5db582-76c0-40c9-b709-04793029fd03)
-![2](https://github.com/user-attachments/assets/492246f5-7213-4092-8e13-7ac99d6c230f)
-![1](https://github.com/user-attachments/assets/987e00c2-c79f-4da6-a627-c8fbca573139)
+![1](https://github.com/user-attachments/assets/b8ed6b01-e1d0-40de-9007-79bf289beb6a)
+![2](https://github.com/user-attachments/assets/0b56b250-72bf-450c-9e81-9fb55a7ae018)
+![3](https://github.com/user-attachments/assets/397d2daa-66ae-4feb-a290-b7d00cf9ee2b)
+![4](https://github.com/user-attachments/assets/01873e43-fd70-4919-9374-627ed29464a8)
